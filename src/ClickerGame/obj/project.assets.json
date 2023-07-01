@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\CSharp-Study\\ClickerGame\\ClickerGame\\ClickerGame.csproj",
+      "projectUniqueName": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\Cookie-Clicker-Game\\ClickerGame\\ClickerGame.csproj",
       "projectName": "ClickerGame",
-      "projectPath": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\CSharp-Study\\ClickerGame\\ClickerGame\\ClickerGame.csproj",
+      "projectPath": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\Cookie-Clicker-Game\\ClickerGame\\ClickerGame.csproj",
       "packagesPath": "C:\\Users\\adaib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\CSharp-Study\\ClickerGame\\ClickerGame\\obj\\",
+      "outputPath": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\Cookie-Clicker-Game\\ClickerGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

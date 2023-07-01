@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mclfEf5a+ipF4cbeccu3EXcYXEZvBW1lqaLwrmbfDkPBSI/0WhLW9ZxwwNPKRSXkDE7LCL3rCMEMrZ3uMdxfMg==",
+  "dgSpecHash": "0MryYFJQWAnkPe23pithxK9+/JbPnE4fkzJAKz+eHyIF+fpDJTfiSJiHZ+NzgQW4sg9tQMdxM/qFr72CFGUu0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\Cookie-Clicker-Game\\ClickerGame\\ClickerGame.csproj",
+  "projectFilePath": "C:\\Users\\adaib\\OneDrive\\Документы\\Github\\Cookie-Clicker-Game\\src\\ClickerGame\\ClickerGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

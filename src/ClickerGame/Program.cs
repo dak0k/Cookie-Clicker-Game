@@ -1,3 +1,4 @@
+//Game by dak0k_
 namespace ClickerGame
 {
     internal static class Program

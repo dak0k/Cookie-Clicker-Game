@@ -1,4 +1,4 @@
-
+//Game by dak0k_
 using Timer = System.Windows.Forms.Timer;
 
 namespace ClickerGame
